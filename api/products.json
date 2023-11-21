@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "manufacturer": "Audi",
+      "model": "RS7",
+      "price": 250000
+    },
+    {
+      "id": 2,
+      "manufacturer": "Audi",
+      "model": "RS6",
+      "price": 240000
+    },
+    {
+      "id": 3,
+      "manufacturer": "Audi",
+      "model": "S8",
+      "price": 270000
+    },
+    {
+      "id": 4,
+      "manufacturer": "Audi",
+      "model": "RS5",
+      "price": 170000
+    },
+    {
+      "id": 5,
+      "manufacturer": "Audi",
+      "model": "RS4",
+      "price": 160000
+    }
+  ]
+}
